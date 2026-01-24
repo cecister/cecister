@@ -63,4 +63,3 @@ UX awareness
 ### ⌘ connect
 
 - LinkedIn: https://www.linkedin.com/in/cecister/
-```
