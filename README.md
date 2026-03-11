@@ -1,93 +1,61 @@
-# Renata Zakirova
+# Привет! Я Рената (Cecilia Sternau) 
 
-<p align="center">
-  <i>Software Developer in progress · Full‑stack roadmap · Systems & Automation</i>
-</p>
+Начинающий Fullstack-разработчик с бэкграундом в DevRel
+и IT-сообществах.
 
-┌─ systems · logic · people ─┐
-no‑code → python → full‑stack → apps
+### 🛠 Мой стек и инструменты
 
----
+**Программирование:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-## ⌘ about
-
-I build structured systems and enjoy turning ideas into working logic.
-
-I started with no‑code tools — creating bots, websites, and automated workflows —
-and now I’m transitioning into programming to gain deeper control, flexibility, and scalability.
-
-I care about **how systems work** and **how people experience them**.
+**No-code & Automation:**
+* **Архитектура данных:** Airtable (базы данных), Colabza (интеграция).
+* **Автоматизация:** Make (Integromat) — построение сложных сценариев и логики.
+* **Конструкторы:** Tilda (frontend), Telegram Bots (интерфейсы взаимодействия).
 
 ---
 
-## ⌘ current focus
-
-* Python fundamentals & problem solving
-* Algorithms and logical thinking
-* Backend basics (APIs, databases)
-* JavaScript fundamentals & frontend logic
-* Clean code and system design thinking
-
----
-
-## ⌘ roadmap
-
-**Stage 1 — Core foundations (now)**
-
-* Python (data structures, OOP, algorithms)
-* Git & GitHub workflow
-* HTML, CSS, JavaScript basics
-* SQL & database fundamentals
-
-**Stage 2 — Full‑stack development**
-
-* Backend: Node.js
-* Frontend: React 
-* REST APIs & authentication
-* Deployment & basic DevOps
-
-**Stage 3 — Applications**
-
-* Desktop apps (Python + Qt / Electron / Tauri)
-* Mobile apps (React Native)
-* Architecture patterns & performance
+#### 🚀 IT Hub Management & DevRel
+Работая менеджером IT-хаба, я занималась развитием сообщества в цифровом и очном формате:
+* **Контент и продвижение:** Ведение Instagram-аккаунта хаба, съемка видео, создание визуального стиля (включая разработку фирменных стикеров).
+* **Организация ивентов:** Проведение хакатонов и IT-фестивалей «под ключ».
+* **Технический вклад:** Разработка лендингов для хакатонов.
+* **Менторство:** Выступала в роли ментора на хакатонах, модерировала работу команд, следила за соблюдением правил и честностью разработки (anti-cheat контроль).
+* **Публичные выступления:** Спикер на мероприятиях, презентация инициатив хаба.
 
 ---
 
-## ⌘ background
+### 📂 Опыт и реализованные проекты
 
-* no‑code development: Tilda, Make (Integromat), Airtable, Collabza
-* chatbot logic & workflow automation
-* IT hub management & hackathon organization
-* team coordination and leadership
-* interactive narrative project using **Ren'Py** (Python‑based engine)
-* experience with narrative logic, branching dialogues, and creative coding
+#### 1. Платформа для IT-курсов (No-code Fullstack)
+Задача: Создать автоматизированную систему продажи курсов без использования традиционного бэкенда.
+* **Реализация:** Разработала фронтенд на Tilda, который через Colabza синхронизировался с базой данных Airtable. 
+* **Логика:** Настроила сценарии в Make (Integromat), которые обрабатывали заявки, отправляли уведомления в Telegram-бота и управляли доступами пользователей.
 
----
-
-## ⌘ tools & skills
-
-```txt
-Python
-JavaScript
-HTML / CSS
-Git / GitHub
-Algorithms (basic)
-Automation logic
-System thinking
-UX awareness
-```
+#### 2. Образовательная новелла на Ren'Py
+Креативный проект в рамках дисциплины «Reading and writing to think».
+* **Механика:** Геймификация учебного процесса. Использовала движок RenPy для создания системы тестов. 
+* **Детали:** Реализовала логику ветвления диалогов, переменные для подсчета баллов за ответы и интеграцию мультимедиа (ассеты из «Бесконечного лета» + кастомный саундтрек курса).
 
 ---
 
-## ⌘ philosophy
+### 📈 Что я делаю сейчас
 
-> build things that make sense
-> make them clear
-> make them human
+* **Изучение:** Глубоко погружаюсь в JavaScript (сейчас в приоритете база и работа с DOM). 
+* **Практика:** Закрепляю теорию на Stepik и решаю реальные задачи на текущем рабочем месте.
+* **Цель:** Перейти от No-code к чистому коду, научиться создавать отказоустойчивые веб-сервисы, а затем уйти в разработку приложений и игр.
 
 ---
 
-## ⌘ connect
+### 🔧 Личные интересы (Shaitan-machine mode)
+Обожаю кастомные решения и эксперименты с железом. Один из любимых кейсов — настройка смартфона как гибридного устройства: использование Android-среды параллельно с полноценным дистрибутивом Ubuntu для рабочих задач «на ходу».
 
-* [My Linkedin](https://www.linkedin.com/in/cecister/)
+---
+
+### 📫 Контакты
+
+* **LinkedIn:** [Рената Закирова](https://www.linkedin.com/in/cecister/)
+* **Telegram-канал:** [Вселенная Сесилии](https://t.me/cecister)
