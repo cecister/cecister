@@ -55,6 +55,7 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecister&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cecister&show_icons=true)
 ---
 
 ### 📫 Контакты
