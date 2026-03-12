@@ -54,7 +54,7 @@
 Обожаю кастомные решения и эксперименты с железом. Один из любимых кейсов — настройка смартфона как гибридного устройства: использование Android-среды параллельно с полноценным дистрибутивом Ubuntu для рабочих задач «на ходу».
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecister&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecister&layout=compact)
 ---
 
 ### 📫 Контакты
